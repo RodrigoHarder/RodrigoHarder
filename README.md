@@ -1,6 +1,6 @@
 <h1 align="left">E aí, sou o Rodrigo!</h1>
 
-Sou graduado em Design Gráfico, Técnico e Licenciatura em Química. Adoro ensinar e aprender, por isso quero me aventurar em diferentes áreas da tecnologia. Faço parte da Alura e atuo como monitor no time de FórumOps. Dentre minhas qualidades se destacam a comunicação, colaboração, resiliência, proatividade, criatividade e empatia.
+Sou estudante de pós-graduação na área de Frontend Engineering na FIAP e monitor na escola de Frontend e Mobile da Alura. Minhas maiores paixões são React e Next.JS, mas adoro me aventurar em outros frameworks e tecnologias do Front-end e de outras áreas para conseguir cada vez mais expandir meus conhecimentos e continuar aprendendo.
 
 <div align="center">
   <a href="https://github.com/RodrigoHarder">
