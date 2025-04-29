@@ -1,6 +1,6 @@
 <h1 align="left">E aí, sou o Rodrigo!</h1>
 
-Sou estudante de pós-graduação na área de Frontend Engineering na FIAP e monitor na escola de Frontend e Mobile da Alura. Minhas maiores paixões são React e Next.JS, mas adoro me aventurar em outros frameworks e tecnologias do Front-end e de outras áreas para conseguir cada vez mais expandir meus conhecimentos e continuar aprendendo.
+Sou estudante de pós-graduação na área de Frontend Engineering na FIAP. Minhas maiores paixões são React e Next.JS, mas adoro me aventurar em outros frameworks e tecnologias do Front-end e de outras áreas para conseguir cada vez mais expandir meus conhecimentos e continuar aprendendo.
 
 <div align="center">
   <a href="https://github.com/RodrigoHarder">
